@@ -1,0 +1,6 @@
+﻿  MathLibrary.cpp
+C:\Users\Admin\source\repos\StaticMath\MathLibrary\MathLibrary.cpp(30,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\StaticMath\MathLibrary\MathLibrary.cpp(41,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\StaticMath\MathLibrary\MathLibrary.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\StaticMath\MathLibrary\MathLibrary.cpp(184,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MathLibrary.vcxproj -> C:\Users\Admin\source\repos\StaticMath\Debug\MathLibrary.lib
