@@ -1,0 +1,6 @@
+1 Gerchik Artyom Vadimovich Minsk 5 4 5
+2 Khil Vladislav Maksimovich Minsk 5 5 4
+3 Pupkin Vasya Vasil'evich Minsk 5 3 5 
+4 Glukhovskii Dmitry Genadievich Jodino 5 5 5
+5 Lomets Nikita Sergeevich Slutsk 3 3 3
+6 Ankushev Aleksei Andreevich Minsk 5 5 5
