@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\source\dlltest\LAB5IND2DLL\LAB5IND2DLL\main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LAB5IND2DLL.vcxproj -> C:\Users\Admin\source\dlltest\LAB5IND2DLL\Debug\LAB5IND2DLL.exe
